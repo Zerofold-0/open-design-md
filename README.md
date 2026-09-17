@@ -2,8 +2,6 @@
 
 A collection of `DESIGN.md` documents for AI coding and design agents. Each document captures the visual language of a product or brand—including colors, typography, radii, spacing, component rules, and design guardrails—and can be placed directly in a project root for an agent to read.
 
-This repository follows the organization of [VoltAgent/awesome-design-md](https://github.com/voltagent/awesome-design-md): all design systems live under `design-md/`, each system has its own directory, and every entry uses the standard `DESIGN.md` filename. Categories exist only in this index so that document links remain stable.
-
 ## How to Use
 
 1. Choose a design direction from the collection below.
